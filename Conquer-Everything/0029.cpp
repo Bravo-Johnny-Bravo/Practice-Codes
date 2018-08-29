@@ -33,6 +33,5 @@ public:
         }
         
         return (sign == -1) ? -result : result;
-        
     }
 };
